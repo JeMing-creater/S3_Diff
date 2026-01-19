@@ -105,6 +105,9 @@ sr:
   color_correction_ref: lr            
   color_lowpass_ksize: 51              
 
+
+
+# You can set your dataset configurations here
 TCGA_LUAD:
   root: /mnt/lwx/pyworkspace/multi-sur/data/TCGA-LUAD/
   choose_WSI: 50
