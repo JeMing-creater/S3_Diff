@@ -8,7 +8,7 @@ import torch.nn.functional as F
 
 from segment_anything import sam_model_registry, SamPredictor
 
-from .loader_old import PathologySRSurvivalDataset
+from .loader import PathologySRSurvivalDataset
 
 
 def _ensure_dir(p: str):
