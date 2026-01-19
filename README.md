@@ -45,6 +45,16 @@ and then set it into `src/models/`
 ![root](./img/root.png)
 ![img](./img/img_root.png)
 
+## Train and eval
+Use following code to train:
+```
+python train.py
+```
+Use following code to eval:
+```
+python eval.py
+```
+
 # Results
 ![table](./img/table.png)
 ![vis](./img/vis.png)
